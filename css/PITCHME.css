@@ -1,0 +1,65 @@
+.reveal h1,
+.reveal h2,
+.reveal h3 { 
+   text-align: left; 
+   margin-left: 5rem;
+   font-family: "Rounded Mplus 1c";
+   text-transform: none;
+}
+
+.reveal p {
+   text-align: left;
+   margin-left: 5rem;
+   font-family: "Rounded Mplus 1c";
+   line-height: 3.75rem;
+}
+
+.reveal li {
+   text-align: left; 
+   margin-left: 5rem;
+   font-family: "Rounded Mplus 1c";
+   line-height: 3.75rem;
+}
+
+.reveal pre {
+   text-align: left; 
+   margin-left: 5rem;
+}
+
+body {
+   background: #f2f2f2;
+   background-color: #f2f2f2;
+}
+
+.h1-narrow {
+   letter-spacing: -0.3rem;
+} 
+
+.h1-wide {
+   letter-spacing: 1rem;
+}
+
+.p-narrow {
+   letter-spacing: -0.2rem;
+} 
+
+.p-wide {
+   letter-spacing: 1rem;
+}
+
+.midpoint {
+   word-break: keep-all;
+}
+
+// <link href="https://fonts.googleapis.com/earlyaccess/mplus1p.css" rel="stylesheet" />  
+// <link href="https://fonts.googleapis.com/earlyaccess/roundedmplus1c.css" rel="stylesheet" />  
+// <link href="https://fonts.googleapis.com/earlyaccess/sawarabigothic.css" rel="stylesheet" />  
+// <link href="https://fonts.googleapis.com/earlyaccess/nicomoji.css" rel="stylesheet" />  
+// <link href="https://fonts.googleapis.com/earlyaccess/notosansjapanese.css" rel="stylesheet" />  
+
+.fonto-mplus1p { font-family: "Mplus 1p"; }
+.fonto-roundedmplus1c { font-family: "Rounded Mplus 1c"; }
+.fonto-sawarabigothic { font-family: "Sawarabi Gothic"; }
+.font-nicomoji { font-family: "Nico Moji"; }
+.font-notosansjapanese { font-family: "Noto Sans Japanese"; }
+  

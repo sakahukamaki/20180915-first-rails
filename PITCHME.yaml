@@ -1,0 +1,5 @@
+#css
+theme-override: css/PITCHME.css
+
+#コードのシンタックスハイライトの設定
+highlight : monokai
