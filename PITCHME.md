@@ -34,34 +34,55 @@ Twitterとかに書かないでね
 緊張をほぐしたいので趣味の話をします
 @snapend
 
+
+---
+
+![](https://raw.githubusercontent.com/sakahukamaki/20180915-first-rails/master/pictures/tojinomiko.jpg)
+
 ---
 
 ## 刀使ノ巫女
-2018年1月～、4月～    
-2クールオリジナルアニメ    
+- 2018年1月からアニメ放送開始
+- オリジナル2クールアニメ
+- 日本刀と女子中高生と神様
+- どこにも明確な敵がいない
 
+---
 
-!TODO 画像
+![](https://raw.githubusercontent.com/sakahukamaki/20180915-first-rails/master/pictures/starlight.jpg)
 
 ---
 
 ## @css[h1-narrow](少女☆歌劇 レヴュースタァライト)
-2018年7月～  
-舞台と同時展開  
+- 2017年ミュージカル初演
+- 2018年7月～アニメ放送開始
+- いいから見てくれ
 
-!TODO 画像
+---
+
+![](https://raw.githubusercontent.com/sakahukamaki/20180915-first-rails/master/pictures/act-age.jpg)
 
 ---
 
 ## アクタージュ
-週刊少年ジャンプ  
-!TODO 画像  
+- 週刊少年ジャンプにて2018年から連載中
+- 原作：マツキタツヤ、漫画：宇佐崎しろ
+- 次に来るマンガ大賞 5位
+- 鬼才と呼ばれる監督が見いだしたのは女優の原石だった？
+- 演技で殴り合う激アツマンガ
+
+---
+
+![](https://raw.githubusercontent.com/sakahukamaki/20180915-first-rails/master/pictures/runway.jpg)
 
 ---
 
 ## @css[h1-narrow](ランウェイで笑って)
-週刊少年マガジン  
-!TODO 画像  
+- 週刊少年マガジンにて2017年から連載
+- 猪ノ谷言葉 作
+- マンガ大賞2018 6位、次に来るマンガ大賞 12位
+- ファッションデザイナーを志望する少年と、  
+   低身長ながらもトップモデルを目指す少女の激熱成長物語
 
 ---
 
